@@ -99,12 +99,23 @@ a {
     margin-right: 12px;
   }
 
-  .col {
+  /*.col {
     display: inline-block;
     width: 50%;
     margin-right: -4px;
     vertical-align: top;
     padding-left: 1em;
     padding-right: 1em;
+  }*/
+  .feat-img {
+    width: 300px;
+    float: left;
+    margin: 5px 25px 25px 0;
+    padding: 10px;
+    border: solid 1px #d9e4ea;
   }
+
+  /*p {
+    border: solid 1px red;
+  }*/
 }
