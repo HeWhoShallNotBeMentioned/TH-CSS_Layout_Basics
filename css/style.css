@@ -98,4 +98,13 @@ a {
   .main-nav li {
     margin-right: 12px;
   }
+
+  .col {
+    display: inline-block;
+    width: 50%;
+    margin-right: -4px;
+    vertical-align: top;
+    padding-left: 1em;
+    padding-right: 1em;
+  }
 }
