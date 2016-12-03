@@ -86,7 +86,7 @@ a {
   margin: 0 auto;
   }
 
-  .name, .main-nav, .main-nav  li {
+  /*.name, .main-nav, .main-nav  li {
     display: inline-block;;
   }
 
@@ -97,7 +97,7 @@ a {
 
   .main-nav li {
     margin-right: 12px;
-  }
+  }*/
 
   /*.col {
     display: inline-block;
